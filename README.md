@@ -5,7 +5,7 @@ Back-End Developer
 ------------------
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [josczesny2gmail.com](mailto:josczesny2gmail.com)
+* ✉️  You can contact me at [josczesnygmail.com](mailto:josczesnygmail.com)
 * 🧠  I'm learning AI
 
 ### Skills
